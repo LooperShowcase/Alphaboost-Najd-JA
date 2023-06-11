@@ -1,0 +1,56 @@
+
+    body {
+       
+        background-image: url(https://images.adsttc.com/media/images/5f3e/5bb1/b357/6546/6300/020e/newsletter/6_ZHA_Xi%E2%80%99an_International_Football_Centre_Render_by_Negativ.jpg?1597922192);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    h1
+    {
+        font-family: 'Rubik', sans-serif;
+        background-color: rgb(252, 0, 0);
+    }
+    #image
+    {
+        border-radius: 25px;
+    }
+    
+
+    .nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        border: 1px solid #e7e7e7;
+        background-color: #f3f3f3;
+      }
+      
+      .nav li {
+        float: left;
+      }
+      
+      .nav li a {
+        display: block;
+        color: #666;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      .nav li a:hover:not(.active) {
+        background-color: #ddd;
+      }
+      
+      .nav li a.active {
+        color: white;
+        background-color: #04AA6D;
+      }
+      .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-align: center;
+     }
